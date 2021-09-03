@@ -12,7 +12,7 @@ User.create!(
   password: 'foobar',
   password_confirmation: 'foobar',
   admin: true,
-  activatedé: true,
+  activated: true,
   activated_at: Time.zone.now,
 )
 
